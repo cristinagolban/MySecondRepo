@@ -9,6 +9,8 @@ namespace ConsoleApp2
             Console.WriteLine("Salut Main!");
             Console.WriteLine("Salut brench 1 !");
 
+            Console.WriteLine("Alta scgimbare de mesaj in brench1 :)")
+
         }
     }
 }
