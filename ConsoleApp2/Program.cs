@@ -11,7 +11,7 @@ namespace ConsoleApp2
 
             Console.WriteLine("Alta scgimbare2 de mesaj in brench1 :)")
 
-            Console.WriteLine("Alta sss de mesaj in brench1 vvvvvv :)")
+            Console.WriteLine("schimb mesaj :)")
 
         }
     }
