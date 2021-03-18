@@ -7,6 +7,8 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Console.WriteLine("Salut Main!");
+            Console.WriteLine("Salut brench 1 !");
+
         }
     }
 }
