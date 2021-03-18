@@ -8,7 +8,7 @@ namespace ConsoleApp2
         {
             Console.WriteLine("Salut brench 1 !");
 
-            Console.WriteLine("Alta sss de mesaj in brench1 :)")
+            Console.WriteLine("aaaaaaa")
         }
     }
 }
